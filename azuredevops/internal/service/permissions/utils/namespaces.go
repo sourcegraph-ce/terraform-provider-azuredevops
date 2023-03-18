@@ -3,7 +3,7 @@ package utils
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	"github.com/ahmetb/go-linq"
